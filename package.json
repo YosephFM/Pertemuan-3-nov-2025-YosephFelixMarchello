@@ -1,0 +1,26 @@
+{
+  "name": "pertemuan-3-nov-2025-yosephfelixmarchello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosephFM/Pertemuan-3-nov-2025-YosephFelixMarchello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosephFM/Pertemuan-3-nov-2025-YosephFelixMarchello/issues"
+  },
+  "homepage": "https://github.com/YosephFM/Pertemuan-3-nov-2025-YosephFelixMarchello#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.10"
+  }
+}
